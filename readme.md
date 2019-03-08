@@ -1,3 +1,6 @@
+# Presentation
+If you would like a copy of the slide deck, you can find it on [Slide Share](https://www.slideshare.net/SusanIbach/how-to-rock-a-demo)
+
 # Visibility
 Make sure the audience can see the code on your screen
 
