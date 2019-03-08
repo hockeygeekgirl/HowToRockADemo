@@ -36,13 +36,13 @@ Visual Studio
 * \<CTRL+4> for live zoom
 * \<ESC> to exit
 
-## Backup
+# Don't waste time making typing mistakes
 
-Code Snippets
+## Code Snippets
 * [Visual Studio](https://docs.microsoft.com/en-us/visualstudio/ide/code-snippets?view=vs-2017)
 * [Visual Studio Code](https://code.visualstudio.com/docs/editor/userdefinedsnippets)
 
-Comment/Uncommenting code
+## Comment/Uncommenting code
 * \<CTRL+K>\<U> to uncomment code in Visual Studio and Visual Studio Code
 * \<CTRL+K>\<C> to comment code in Visual Studio and Visual Studio Code
 
