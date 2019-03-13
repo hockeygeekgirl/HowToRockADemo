@@ -21,6 +21,8 @@ Make sure the audience can see the code on your screen
 )
 * To change the font size in the Azure CLI Command window within the Azure portal, choose settings (the gear icon) | Text Size and Font
 
+## Clean up your desktop
+* To temporarily hide the desktop icons in Windows, right click on the desktop View - Desktop icons
 ## Zoom
 Visual Studio Code
 * Zen mode \<CTRL+K>,\<Z>
